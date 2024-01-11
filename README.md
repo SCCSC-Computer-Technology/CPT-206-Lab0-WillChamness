@@ -110,3 +110,6 @@ You can check out the GitHub Explore website [at github.com/explore](https://git
 
 
 ---------Charles Stuff
+
+## Other Docs
+Contains other documentation in the readme
